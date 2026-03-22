@@ -91,7 +91,7 @@ agri-rag-chatbot/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agri-rag-chatbot.git
+git clone https://github.com/ReVaup/agri-rag-chatbot.git
 cd agri-rag-chatbot
 ```
 
